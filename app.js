@@ -203,7 +203,7 @@ const questions =
 		new Answer("-ness", 0),
 		
 	]),
-	new Question("Какой суффикс используется для образования существительного от слова DISCOVER", 
+	new Question("Какой суффикс используется для образования существительного от слова  to DISCOVER", 
 	[
 		new Answer("-ain", 0),
 		new Answer("-ity", 0),
